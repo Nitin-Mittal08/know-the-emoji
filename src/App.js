@@ -6,7 +6,11 @@ var emojiDictonary = {
   "😂": "Laughing",
   "😐": "Neutral",
   "🥳": "Celebration",
-  "😠": "Angry"
+  "😠": "Angry",
+  "🤔": "Thinking",
+  "✌": "Victory",
+  "👏": "Clapping",
+  "😉": "Winking"
 };
 var emojisWeKnow = Object.keys(emojiDictonary);
 export default function App() {
